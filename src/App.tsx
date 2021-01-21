@@ -12,8 +12,8 @@ export default function App() {
       <div className="my-3">
         <i>
           From the blog post{" "}
-          <a href="https://chrisfrewin.com/blog/react-typescript-generic-search-sort-and-filters/">
-            "React and TypeScript: Generic Search, Sorters, and Filters"
+          <a href="https://chrisfrewin.com/blog/extending-react-types-for-children-as-a-function/">
+            "Extending React Standard Types to Allow for Children as a Function"
           </a>
           .
         </i>
