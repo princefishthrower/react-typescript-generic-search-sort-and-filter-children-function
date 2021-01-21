@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-typescript-generic-search-and-filter-children-function/build/static/css/main.fa86eae0.chunk.css",
+    "main.js": "/react-typescript-generic-search-and-filter-children-function/build/static/js/main.dc87b865.chunk.js",
+    "main.js.map": "/react-typescript-generic-search-and-filter-children-function/build/static/js/main.dc87b865.chunk.js.map",
+    "runtime-main.js": "/react-typescript-generic-search-and-filter-children-function/build/static/js/runtime-main.bb4e3119.js",
+    "runtime-main.js.map": "/react-typescript-generic-search-and-filter-children-function/build/static/js/runtime-main.bb4e3119.js.map",
+    "static/js/2.1f9b5d18.chunk.js": "/react-typescript-generic-search-and-filter-children-function/build/static/js/2.1f9b5d18.chunk.js",
+    "static/js/2.1f9b5d18.chunk.js.map": "/react-typescript-generic-search-and-filter-children-function/build/static/js/2.1f9b5d18.chunk.js.map",
+    "index.html": "/react-typescript-generic-search-and-filter-children-function/build/index.html",
+    "precache-manifest.41e448f7d7f4b83d86b6720a5e867d06.js": "/react-typescript-generic-search-and-filter-children-function/build/precache-manifest.41e448f7d7f4b83d86b6720a5e867d06.js",
+    "service-worker.js": "/react-typescript-generic-search-and-filter-children-function/build/service-worker.js",
+    "static/css/main.fa86eae0.chunk.css.map": "/react-typescript-generic-search-and-filter-children-function/build/static/css/main.fa86eae0.chunk.css.map",
+    "static/js/2.1f9b5d18.chunk.js.LICENSE.txt": "/react-typescript-generic-search-and-filter-children-function/build/static/js/2.1f9b5d18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb4e3119.js",
+    "static/js/2.1f9b5d18.chunk.js",
+    "static/css/main.fa86eae0.chunk.css",
+    "static/js/main.dc87b865.chunk.js"
+  ]
+}
